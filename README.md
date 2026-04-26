@@ -1,16 +1,24 @@
-## Hi there 👋
+# Kent Aliab
 
-<!--
-**kentalibab-crypto/kentalibab-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building AI agents and autonomous systems. Claude Code, MCP, RAG, computer use. Open-source explorer.**
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI agents** — Claude Code, MCP, computer use
+- **Local LLMs** — Ollama (qwen3, llama4, deepseek)
+- **Orchestration** — LangChain, LangGraph, custom Python
+- **Vector / RAG** — Qdrant, pgvector, BM25 hybrids
+- **Automation** — n8n, custom Python pipelines, yt-dlp + faster-whisper
+- **Infra** — Cloudflare Workers, Hugging Face Spaces
+
+## Active projects
+
+- Brain knowledge base (Obsidian + Reddit/RSS/YouTube auto-ingest + Ollama summaries)
+- Autonomy mode (Telegram bot orchestrator)
+- Video discovery pipeline (yt-dlp → captions → Ollama → Markdown)
+
+## Reach
+
+- Hugging Face: [@kentalibab](https://huggingface.co/kentalibab)
+- TikTok: [@kentalibab](https://www.tiktok.com/@kentalibab)
+- Instagram: [@kentalibab](https://www.instagram.com/kentalibab)
